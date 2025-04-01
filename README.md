@@ -5,6 +5,8 @@
 A CLI tool that brings AI assistance directly into your terminal.
 Built with Genkit, Google Gemini, and a real bash session using `node-pty`.
 
+![log](https://github.com/user-attachments/assets/e4cf6af1-f554-4be3-bddc-44a55b667c5a)
+
 ---
 
 ## 🚀 Features
