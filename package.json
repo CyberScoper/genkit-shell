@@ -1,0 +1,42 @@
+{
+  "name": "genkit-shell",
+  "version": "1.1.5",
+  "description": "AI CLI interpreter using Genkit and Gemini",
+  "bin": {
+    "genkit-shell": "./bin/genkit-shell.js"
+  },
+  "type": "module",
+  "author": "Aleksandr Murzin",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "cli",
+    "genkit",
+    "gemini",
+    "googleai",
+    "terminal",
+    "assistant",
+    "npx"
+  ],
+  "homepage": "https://github.com/CyberScoper/genkit-shell#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyberScoper/genkit-shell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyberScoper/genkit-shell/issues"
+  },
+  "scripts": {
+    "start": "node ./bin/genkit-shell.js",
+    "postinstall": "echo '✅ Genkit Shell! Run: npx genkit-shell'"
+  },
+  "dependencies": {
+    "@genkit-ai/googleai": "^1.4.0",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "genkit": "^1.4.0",
+    "node-pty": "^1.0.0"
+  }
+}
