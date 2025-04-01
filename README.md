@@ -83,8 +83,8 @@ You can get your key from [Google AI Studio](https://makersuite.google.com/).
 
 ---
 
-## 💬 Author
-Made by [CyberScoper](https://github.com/CyberScoper)
+## 💻 Author
+Created by [CyberScoper](https://github.com/CyberScoper)
+On npmjs [Npmjs](https://www.npmjs.com/package/genkit-shell)
 
 ---
-
